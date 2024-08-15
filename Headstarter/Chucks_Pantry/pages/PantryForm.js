@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { TextField, Button } from '@mui/material';
-import { db } from './firebase';
+import { db } from '../firebase';
 import { collection, addDoc, updateDoc, deleteDoc, doc } from "firebase/firestore";
 
 const PantryForm = ({ itemToUpdate, onUpdateComplete }) => {

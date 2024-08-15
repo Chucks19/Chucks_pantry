@@ -1,0 +1,91 @@
+{
+  "polyfillFiles": [
+    "static/chunks/polyfills-78c92fac7aa8fdd8.js"
+  ],
+  "devFiles": [],
+  "ampDevFiles": [],
+  "lowPriorityFiles": [
+    "static/i-VKplNg8bEr0J9w6tknO/_buildManifest.js",
+    "static/i-VKplNg8bEr0J9w6tknO/_ssgManifest.js"
+  ],
+  "rootMainFiles": [],
+  "pages": {
+    "/": [
+      "static/chunks/webpack-87b3a303122f2f0d.js",
+      "static/chunks/framework-ecc4130bc7a58a64.js",
+      "static/chunks/main-ac52e5f1ea1d2a16.js",
+      "static/chunks/7112840a-d0e847b4e5499f43.js",
+      "static/chunks/0cd49c70-50baac62631d1007.js",
+      "static/chunks/fec483df-5fddc1f4c47a0bef.js",
+      "static/chunks/267-e23ed2b16273973e.js",
+      "static/chunks/5-f39b33bf5b200433.js",
+      "static/chunks/163-1ecd2857c9d94238.js",
+      "static/chunks/526-8981d9a3f9ed6557.js",
+      "static/chunks/38-c2cf314647bb8c67.js",
+      "static/chunks/pages/index-81acbd1028d059bd.js"
+    ],
+    "/ImageClassifier": [
+      "static/chunks/webpack-87b3a303122f2f0d.js",
+      "static/chunks/framework-ecc4130bc7a58a64.js",
+      "static/chunks/main-ac52e5f1ea1d2a16.js",
+      "static/chunks/7112840a-d0e847b4e5499f43.js",
+      "static/chunks/0cd49c70-50baac62631d1007.js",
+      "static/chunks/267-e23ed2b16273973e.js",
+      "static/chunks/66-27e71d560a51e17a.js",
+      "static/chunks/pages/ImageClassifier-7fa90926f6453795.js"
+    ],
+    "/PantryForm": [
+      "static/chunks/webpack-87b3a303122f2f0d.js",
+      "static/chunks/framework-ecc4130bc7a58a64.js",
+      "static/chunks/main-ac52e5f1ea1d2a16.js",
+      "static/chunks/7112840a-d0e847b4e5499f43.js",
+      "static/chunks/0cd49c70-50baac62631d1007.js",
+      "static/chunks/267-e23ed2b16273973e.js",
+      "static/chunks/5-f39b33bf5b200433.js",
+      "static/chunks/163-1ecd2857c9d94238.js",
+      "static/chunks/pages/PantryForm-24475a0771ba1e07.js"
+    ],
+    "/PantryList": [
+      "static/chunks/webpack-87b3a303122f2f0d.js",
+      "static/chunks/framework-ecc4130bc7a58a64.js",
+      "static/chunks/main-ac52e5f1ea1d2a16.js",
+      "static/chunks/7112840a-d0e847b4e5499f43.js",
+      "static/chunks/0cd49c70-50baac62631d1007.js",
+      "static/chunks/267-e23ed2b16273973e.js",
+      "static/chunks/5-f39b33bf5b200433.js",
+      "static/chunks/163-1ecd2857c9d94238.js",
+      "static/chunks/526-8981d9a3f9ed6557.js",
+      "static/chunks/pages/PantryList-26f356c326429d99.js"
+    ],
+    "/RecipeSuggestions": [
+      "static/chunks/webpack-87b3a303122f2f0d.js",
+      "static/chunks/framework-ecc4130bc7a58a64.js",
+      "static/chunks/main-ac52e5f1ea1d2a16.js",
+      "static/chunks/7112840a-d0e847b4e5499f43.js",
+      "static/chunks/0cd49c70-50baac62631d1007.js",
+      "static/chunks/267-e23ed2b16273973e.js",
+      "static/chunks/66-27e71d560a51e17a.js",
+      "static/chunks/pages/RecipeSuggestions-a496930e28a1639b.js"
+    ],
+    "/SearchBar": [
+      "static/chunks/webpack-87b3a303122f2f0d.js",
+      "static/chunks/framework-ecc4130bc7a58a64.js",
+      "static/chunks/main-ac52e5f1ea1d2a16.js",
+      "static/chunks/5-f39b33bf5b200433.js",
+      "static/chunks/pages/SearchBar-f571dabae980d669.js"
+    ],
+    "/_app": [
+      "static/chunks/webpack-87b3a303122f2f0d.js",
+      "static/chunks/framework-ecc4130bc7a58a64.js",
+      "static/chunks/main-ac52e5f1ea1d2a16.js",
+      "static/chunks/pages/_app-ba2846e9bd499468.js"
+    ],
+    "/_error": [
+      "static/chunks/webpack-87b3a303122f2f0d.js",
+      "static/chunks/framework-ecc4130bc7a58a64.js",
+      "static/chunks/main-ac52e5f1ea1d2a16.js",
+      "static/chunks/pages/_error-77823ddac6993d35.js"
+    ]
+  },
+  "ampFirstPages": []
+}

@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { db } from './firebase';
+import { db } from '../firebase';
 import { collection, getDocs, query, where } from "firebase/firestore";
 import PantryForm from './PantryForm';
 import SearchBar from './SearchBar';
